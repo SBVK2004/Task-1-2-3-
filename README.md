@@ -1,5 +1,5 @@
-# Task-1-2-3-
-Audio-based Anomaly Classifier , Image-Based Object State Recognition , Sensor Fusion with Anomaly Detection
+# Task - 1 2 3
+#### ***Audio-based Anomaly Classifier , Image-Based Object State Recognition , Sensor Fusion with Anomaly Detection***
 
 
 
@@ -85,7 +85,7 @@ Audio-based Anomaly Classifier , Image-Based Object State Recognition , Sensor F
 # Task 3
 # SensorFusionwithAnomalyDetection(Simulated)
 
-## ***Objective*** : classify Normalbehavior Environmental abnormality
+## ***Objective*** : classify between Normal behavior and Environmental abnormality
 ### Dataset : https://www.kaggle.com/datasets/vickykumaryadav/simulated-iot-environmental-sensor-dataset
 
 ##  Process involved to successful completion of the project
