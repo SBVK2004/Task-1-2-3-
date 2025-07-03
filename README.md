@@ -7,10 +7,9 @@ Audio-based Anomaly Classifier , Image-Based Object State Recognition , Sensor F
 # Task1
 ## Topic-Audio-based Anomaly Classifier
 
+## ***objective*** : to detect anomalies in a given audio
+ 
 ### Dataset - https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
-
-## ***objective***
-#### The main goal of this project is to detect anomalies in a given audio 
 
 ## ***Steps for preprocessing of the audios***
  
@@ -56,8 +55,8 @@ Audio-based Anomaly Classifier , Image-Based Object State Recognition , Sensor F
 # Task2
 # State Recognition of a given object
 
-## Objective : To predict whether a given object is in on or off
-### Dataset : https://www.kaggle.com/datasets/vickykumaryadav/simulated-iot-environmental-sensor-dataset
+## ***Objective*** : To predict whether a given object is in on or off
+
 
 ##   Process involved to successful completion of the project
 
@@ -86,7 +85,8 @@ Audio-based Anomaly Classifier , Image-Based Object State Recognition , Sensor F
 # Task 3
 # SensorFusionwithAnomalyDetection(Simulated)
 
-## Objective : classify Normalbehavior Environmental abnormality
+## ***Objective*** : classify Normalbehavior Environmental abnormality
+### Dataset : https://www.kaggle.com/datasets/vickykumaryadav/simulated-iot-environmental-sensor-dataset
 
 ##  Process involved to successful completion of the project
 ###  1. Dataset Loading
